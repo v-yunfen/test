@@ -45,7 +45,7 @@
     You may need to add "Microsoft.AspNetCore.StaticFiles" package using NuGet Package Manager dialog.
 
     Or edit .csproj file , add following code:
-
+    
     > <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.**_latest_**" />
 
 2. Add new "index.html" file to wwwroot folder, add the content below
@@ -230,7 +230,3 @@
     ![Verify bootstrap-styled shows up in Azure site](_images/20_SimpleWebAppWithEmptyTemplate_MVC/publish_changes_default.png)
 
     ![Navigate to Home and verify the page loads in Azure site](_images/20_SimpleWebAppWithEmptyTemplate_MVC/publish_change_home.png)
-
-
-
-
