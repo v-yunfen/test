@@ -45,8 +45,8 @@
     You may need to add "Microsoft.AspNetCore.StaticFiles" package using NuGet Package Manager dialog.
 
     Or edit .csproj file , add following code:
-    
-    > <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.**_latest_**" />
+
+> <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.**_latest_**" />
 
 2. Add new "index.html" file to wwwroot folder, add the content below
 
@@ -77,7 +77,7 @@
 
     Or edit .csproj file, add following code:			
 
-    > <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.**_latest_**" />
+> <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.**_latest_**" />
 
     b. Configure default MVC route, comment out the highlight part and replace it with the following codes 
     
