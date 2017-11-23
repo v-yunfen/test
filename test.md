@@ -3,6 +3,7 @@
 ### Create project with empty template
 
 1. File > New Project > ASP.NET Core Web Application. Give a name, eg: SimpleAppWithEmpty1
+
     ![Project template](_images/20_SimpleWebAppWithEmptyTemplate_MVC/proj_template.PNG)
 
 2. Choose either one of these two template - "ASP.NET Core Web Application on .NET Core" or "ASP.NET Core Web Application on .NET Framework"
